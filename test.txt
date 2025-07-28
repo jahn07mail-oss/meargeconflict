@@ -1,1 +1,1 @@
-cit=banglore
+city=chennai
